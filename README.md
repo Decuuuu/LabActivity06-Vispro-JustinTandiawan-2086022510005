@@ -1,4 +1,4 @@
-University Library System - Perpustakaan Ngawi 📚
+University Library System - Perpustakaan Ngawi 
 
 
 
